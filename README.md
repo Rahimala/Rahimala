@@ -1,9 +1,9 @@
 Hi, I'm Rahim 👋
 
 ----------------------------------------------------------------
-👑 I am a web developer
-📝 Love to write code
-
+## 👑 I am a web developer
+<br>
+## 📝 Love to write code
 ----------------------------------------------------------------
 # 💫About Me :
 
