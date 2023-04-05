@@ -11,12 +11,8 @@ Hello and welcome to my profile! I am a professional full-stack web developer wi
 
 I have strong problem-solving skills and am adept at developing custom web applications, integrating APIs, optimizing website performance, website maintenance, and collaborating with other developers to deliver high-quality projects on time. Client satisfaction is my top priority.
 
-My skills include:
-★ API integrations and Payment gateways
-★ Optimizing website performance
-★ RESTful APIs Databases
-★ web design
-★ web development
+My skills include: API integrations and Payment gateways, Optimizing website performance, RESTful APIs Databases, web design, web development
+
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rahial406) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahial-alamin-5a1059268) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rahial406) 
 
